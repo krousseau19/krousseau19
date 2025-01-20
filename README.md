@@ -12,8 +12,8 @@ Pronouns: He/Him
 ## My career :
 | Year | Diploma |
 |----------|----------|
-| 2021 | Certificate of general education (Very good) |
-| 2024 | Bachelor's degree |
+| 2021 | Certificate of general education (with honors) |
+| 2024 | Bachelor's degree (with honors) |
 
 Had chosen 3 specialities during High School :
   - Mathematics - Informatics - Physics/Chemistry (2nd Year)
