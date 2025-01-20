@@ -6,7 +6,8 @@ Pronouns: He/Him
 ## My hobbies
 
 ## How to contact me :
-  - Professional mail
+  - Professional email -> kylian.rousseau@etu.unilim.fr
+  - Personal email -> kylian19400@gmail.com
 - 👀 I’m interested in 
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
