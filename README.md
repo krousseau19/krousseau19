@@ -7,7 +7,6 @@ Pronouns: He/Him
 
 ## How to contact me :
   - Professional email -> kylian.rousseau@etu.unilim.fr
-  - Personal email -> kylian19400@gmail.com
 
 ## My career :
 | Year | Diploma |
