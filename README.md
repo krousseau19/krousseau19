@@ -21,7 +21,8 @@ Had chosen 3 specialities during High School :
 Currently deepening my computer skills with a University Bachelor of Technology in "L'IUT du Limousin" located in Limoges (France).
 
 ## My skills : 
-  - Python 
+  - Python : good to very good level
+  - 
 
 
 
