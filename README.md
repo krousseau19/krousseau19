@@ -20,11 +20,11 @@ Had chosen 3 specialities during High School :
   - Mathematics - Informatics (3rd Year)
 
 Currently deepening my computer skills with a University Bachelor of Technology in "L'IUT du Limousin" located in Limoges (France).
-- 👀 I’m interested in 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- ⚡ Fun fact: ...
+
+## My skills : 
+  - Python 
+
+
 
 <!---
 krousseau19/krousseau19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
