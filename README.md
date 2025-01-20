@@ -1,11 +1,16 @@
 ### About me 
 
-- 👋 Hi, I’m Kylian ROUSSEAU
+Hello, I’m Kylian ROUSSEAU
+Pronouns: He/Him
+
+## My hobbies
+
+## How to contact me :
+  - Professional mail
 - 👀 I’m interested in 
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
 <!---
