@@ -22,6 +22,7 @@ Currently deepening my computer skills with a University Bachelor of Technology 
 
 ## My skills : 
   - Python : good to very good level
+  - HTML / CSS : Reasonable level
   - 
 
 
