@@ -6,7 +6,10 @@ Hello, I’m Kylian ROUSSEAU
   - Professional email -> kylian.rousseau@etu.unilim.fr
   - Linkedin profile -> https://www.linkedin.com/in/kylian-rousseau-054a62332/
 
-## My hobbies
+## My hobbies :
+  - Game making (Mainly using Godot or Game Maker)
+  - Playing video games (all genres, but mostly indie)
+  - Listening to music
 
 ## My career :
 | Year | Diploma |
