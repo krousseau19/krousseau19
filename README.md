@@ -2,10 +2,11 @@
 
 Hello, I’m Kylian ROUSSEAU
 
-## My hobbies
-
 ## How to contact me :
   - Professional email -> kylian.rousseau@etu.unilim.fr
+  - Linkedin profile -> Kylian ROUSSEAU
+
+## My hobbies
 
 ## My career :
 | Year | Diploma |
@@ -21,7 +22,7 @@ Currently deepening my computer skills with a University Bachelor of Technology 
 
 ## My skills : 
   - Python : good to very good level
-  - HTML / CSS : Reasonable level
+  - HTML / CSS : good level
   - 
 
 
