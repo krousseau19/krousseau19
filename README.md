@@ -1,6 +1,6 @@
 ### About me 
 
-Hello, I’m Kylian ROUSSEAU
+Hello, I’m Kylian ROUSSEAU \n
 Pronouns: He/Him
 
 ## My hobbies
