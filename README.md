@@ -8,7 +8,7 @@ Hello, I’m Kylian ROUSSEAU
 
 ## My hobbies :
   - Game making (Mainly using Godot or Game Maker)
-  - Playing video games (all genres, but mostly indie)
+  - Playing video games (All genres, but mostly indie)
   - Listening to music
 
 ## My career :
@@ -24,8 +24,10 @@ Had chosen 3 specialities during High School :
 Currently deepening my computer skills with a University Bachelor of Technology in "L'IUT du Limousin" located in Limoges (France).
 
 ## My skills : 
-  - Python : good to very good level
-  - HTML / CSS : good level
+  - Python : Good to very good level
+  - HTML / CSS : Good level
+  - Bash : Moderate level
+  - Java : The basics
 
 Started learning C and JavaScript for future projects
 
