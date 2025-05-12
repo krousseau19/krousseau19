@@ -37,18 +37,18 @@ Currently deepening my computer skills with a University Bachelor of Technology 
 ## My experiences :
 
 ### NSI 2024 Awards - Sisyphe.IO
-  - Edmond Perrier High School, Tulle, France | January 2024 - April 2024 - 
-Project carried out in a team of 5 students as part of the NSI specialization in final year of high school
-Development of a revisited Sokoban application
-Participation as Lead Developer, Game Designer, and Pixel Artist
-Project requiring teamwork, project management, and writing technical documentation
--> Project available on GitHub: https://github.com/Acciaw/sisyphe.io
+  - Edmond Perrier High School, Tulle, France | January 2024 - April 2024 \n
+Project carried out in a team of 5 students as part of the NSI specialization in final year of high school \n
+Development of a revisited Sokoban application \n
+Participation as Lead Developer, Game Designer, and Pixel Artist \n
+Project requiring teamwork, project management, and writing technical documentation \n
+-> Project available on GitHub: https://github.com/Acciaw/sisyphe.io \n
 
 ### Work Experience Internship
-  - Asobo Studio - Bordeaux, France | June 2022 (2 weeks) -
-Discovery of the various professions related to game creation (development, game design, graphics, QA testing, sound design)
-Understanding of the overall functioning of a tech company, from team organization to project management.
-Interaction with IT professionals and support teams
+  - Asobo Studio - Bordeaux, France | June 2022 (2 weeks)  \n
+Discovery of the various professions related to game creation (development, game design, graphics, QA testing, sound design) \n
+Understanding of the overall functioning of a tech company, from team organization to project management. \n
+Interaction with IT professionals and support teams \n
 
 
 
