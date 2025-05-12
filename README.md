@@ -9,7 +9,18 @@ Hello, I’m Kylian ROUSSEAU
 ## My hobbies :
   - Game making (Mainly using Godot or Game Maker)
   - Playing video games (All genres, but mostly indie)
+  - New technologies in general
+  - Economy/Finance
   - Listening to music
+
+## My skills : 
+  - Python : Good to very good level
+  - HTML / CSS : Good level
+  - Bash : Moderate level
+  - Java : Moderate level
+  - Problem-solving and troubleshooting skills
+
+Started learning C and JavaScript for future projects
 
 ## My career :
 | Year | Diploma |
@@ -23,13 +34,23 @@ Had chosen 3 specialities during High School :
 
 Currently deepening my computer skills with a University Bachelor of Technology in "L'IUT du Limousin" located in Limoges (France).
 
-## My skills : 
-  - Python : Good to very good level
-  - HTML / CSS : Good level
-  - Bash : Moderate level
-  - Java : The basics
+## My experiences :
 
-Started learning C and JavaScript for future projects
+# NSI 2024 Awards - Sisyphe.IO
+  - Edmond Perrier High School, Tulle, France | January 2024 - April 2024
+Project carried out in a team of 5 students as part of the NSI specialization in final year of high school
+Development of a revisited Sokoban application
+Participation as Lead Developer, Game Designer, and Pixel Artist
+Project requiring teamwork, project management, and writing technical documentation
+-> Project available on GitHub: https://github.com/Acciaw/sisyphe.io
+
+# Work Experience Internship
+  - Asobo Studio - Bordeaux, France | June 2022 (2 weeks)
+Discovery of the various professions related to game creation (development, game design, graphics, QA testing, sound design)
+Understanding of the overall functioning of a tech company, from team organization to project management.
+Interaction with IT professionals and support teams
+
+
 
 
 
