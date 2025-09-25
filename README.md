@@ -4,7 +4,7 @@ Hello, I’m Kylian ROUSSEAU
 
 ## How to contact me :
   - Professional email -> kylian.rousseau@etu.unilim.fr
-  - Linkedin profile -> https://www.linkedin.com/in/kylian-rousseau-054a62332/
+  - Linkedin profile -> https://www.linkedin.com/in/kylian-rousseau87/
 
 ## My hobbies :
   - Game making (Mainly using Godot or Game Maker)
