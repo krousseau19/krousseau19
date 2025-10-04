@@ -1,7 +1,7 @@
 ### About me 
 
 Hello, I’m Kylian ROUSSEAU, 
-Currently studying for a BUT in Computer Science, I am looking for an internship in a company in order to develop my skills in the professional world. <br/>
+Currently studying Computer Science <br/>
 
 ## How to contact me :
   - Professional email -> kylian.rousseau@etu.unilim.fr
