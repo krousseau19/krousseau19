@@ -8,11 +8,11 @@ Currently studying for a BUT in Computer Science, I am looking for an internship
   - Linkedin profile -> https://www.linkedin.com/in/kylian-rousseau87/
 
 ## My hobbies :
-  - Game making (Mainly using Godot or Game Maker)
-  - Playing video games (All genres, but mostly indie)
-  - New technologies in general
-  - Economy/Finance
-  - Listening to music
+    - Game making (Mainly using Godot or Game Maker)
+    - Playing video games (All genres, but mostly indie)
+    - New technologies in general
+    - Economy/Finance
+    - Listening to music
 
 ## My skills : 
   # Programming Languages (level) : 
@@ -29,6 +29,9 @@ Currently studying for a BUT in Computer Science, I am looking for an internship
     - SGBD (PostgreSQL, SQL Server)
   # Soft Skills : 
     - Problem-solving and troubleshooting skills
+    - Adaptability and autonomy
+    - Punctuality and rigor
+    - Organisation et efficacité
 
 ## My career :
 | Year | Diploma |
