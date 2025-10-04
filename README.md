@@ -1,6 +1,7 @@
 ### About me 
 
-Hello, I’m Kylian ROUSSEAU
+Hello, I’m Kylian ROUSSEAU, 
+Currently studying for a BUT in Computer Science, I am looking for an internship in a company in order to develop my skills in the professional world. <br/>
 
 ## How to contact me :
   - Professional email -> kylian.rousseau@etu.unilim.fr
@@ -14,13 +15,20 @@ Hello, I’m Kylian ROUSSEAU
   - Listening to music
 
 ## My skills : 
-  - Python : Good to very good level
-  - HTML / CSS : Good level
-  - Bash : Moderate level
-  - Java : Moderate level
-  - Problem-solving and troubleshooting skills
-
-Started learning C and JavaScript for future projects
+  # Programming Languages (level) : 
+    - Python : Very good
+    - Java : Very good
+    - HTML / CSS : Very good
+    - Bash : Good
+    - C : Good
+    - JS / PHP : Academic 
+    
+  # Tools : 
+    - Git
+    - IDEs (JetBrains, VSCode, Eclipse)
+    - SGBD (PostgreSQL, SQL Server)
+  # Soft Skills : 
+    - Problem-solving and troubleshooting skills
 
 ## My career :
 | Year | Diploma |
@@ -35,6 +43,18 @@ Had chosen 3 specialities during High School :
 Currently deepening my computer skills with a University Bachelor of Technology in "L'IUT du Limousin" located in Limoges (France).
 
 ## My experiences :
+
+### Development of a Java application
+  - IUT du Limousin - Limoges, France | April 2025 - June 2025 <br/>
+  Development of a board game (Latice) with a console and graphical interface (JavaFX) (team of 5 people) <br/>
+  Mainly involved as a Back-end Developer, validating versions and deadlines. <br/>
+  Project focused on code quality and collaborative versioning. <br/>
+
+### Setting up a network (simulated)
+  - IUT du Limousin - Limoges, France | April 2025 - May 2025 <br/>
+  Conducted a computer network simulation in pairs using Kathara software (two-person team). <br/>
+  This provided a better understanding of the machine architecture and the exchanges between them. <br/>
+  Used bash scripts (configuration) and Wireshark (analysis). <br/>
 
 ### NSI 2024 Awards - Sisyphe.IO
   - Edmond Perrier High School, Tulle, France | January 2024 - April 2024 <br/>
