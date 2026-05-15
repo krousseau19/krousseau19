@@ -1,83 +1,62 @@
-### About me 
+# Hi there, I'm Kylian ROUSSEAU 
 
-Hello, I’m Kylian ROUSSEAU, 
-Currently studying Computer Science <br/>
+### Full-stack .NET & Python Developer | BUT Informatique Student
 
-## How to contact me :
-  - Professional email -> kylian.rousseau@etu.unilim.fr
-  - Linkedin profile -> https://www.linkedin.com/in/kylian-rousseau87/
+Currently in my second year of a Bachelor's Degree in Computer Science at **IUT du Limousin**, I am a passionate developer with a strong focus on **Full-stack development** and **Data Management**. I am currently looking for an **apprenticeship for the 2026-2027 academic year**.
 
-## My hobbies :
-    - Game making (Mainly using Godot or Game Maker)
-    - Playing video games (All genres, but mostly indie)
-    - New technologies in general
-    - Economy/Finance
-    - Listening to music
+---
 
-## My skills : 
-  # Programming Languages (level) : 
-    - Python : Very good
-    - Java : Very good
-    - HTML / CSS : Very good
-    - Bash : Good
-    - C : Good
-    - JS / PHP : Academic 
-    
-  # Tools : 
-    - Git
-    - IDEs (JetBrains, VSCode, Eclipse)
-    - SGBD (PostgreSQL, SQL Server)
-  # Soft Skills : 
-    - Problem-solving and troubleshooting skills
-    - Adaptability and autonomy
-    - Punctuality and rigor
-    - Organisation et efficacité
+### Tech Stack & Skills
 
-## My career :
-| Year | Diploma |
-|----------|----------|
-| 2024 - Now |Bachelor's Degree in Computer Science |
-| 2021 - 2024 | Bachelor's degree (with honors) |
+| Category | Tools & Languages |
+| :--- | :--- |
+| **Languages** | ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) |
+| **Frameworks** | ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white) ![ASP.NET MVC](https://img.shields.io/badge/ASP.NET_MVC-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![JavaFX](https://img.shields.io/badge/JavaFX-FF0000?style=for-the-badge&logo=java&logoColor=white) |
+| **Databases** | ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) |
+| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Sonarqube](https://img.shields.io/badge/Sonarqube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
 
-Had chosen 3 specialities during High School :
-  - Mathematics - Informatics - Physics/Chemistry (2nd Year)
-  - Mathematics - Informatics (3rd Year)
+---
 
-Currently deepening my computer skills with a University Bachelor of Technology in "L'IUT du Limousin" located in Limoges (France).
+### Professional Experience
 
-## My experiences :
+#### **Full-stack .NET Developer (Internship)** **ISPED - Université de Bordeaux** | *April 2026 – Present*
+- **Migration:** Transitioning internal management tools from WebForms to **ASP.NET MVC**.
+- **Backend:** Managing data lifecycle using **C#**, **Entity Framework**, and **SQL Server**.
+- **Features:** Implementing reporting tools (ClosedXML, Rotativa) and automated SMTP mailing services.
+- **Quality:** Maintaining high code standards with **Sonarqube** and collaborative workflow via **GitLab**.
 
-### Development of a Java application
-  - IUT du Limousin - Limoges, France | April 2025 - June 2025 <br/>
-  Development of a board game (Latice) with a console and graphical interface (JavaFX) (team of 5 people) <br/>
-  Mainly involved as a Back-end Developer, validating versions and deadlines. <br/>
-  Project focused on code quality and collaborative versioning. <br/>
+---
 
-### Setting up a network (simulated)
-  - IUT du Limousin - Limoges, France | April 2025 - May 2025 <br/>
-  Conducted a computer network simulation in pairs using Kathara software (two-person team). <br/>
-  This provided a better understanding of the machine architecture and the exchanges between them. <br/>
-  Used bash scripts (configuration) and Wireshark (analysis). <br/>
+### Education & Projects
 
-### NSI 2024 Awards - Sisyphe.IO
-  - Edmond Perrier High School, Tulle, France | January 2024 - April 2024 <br/>
-Project carried out in a team of 5 students as part of the NSI specialization in final year of high school <br/>
-Development of a revisited Sokoban application <br/>
-Participation as Lead Developer, Game Designer, and Pixel Artist <br/>
-Project requiring teamwork, project management, and writing technical documentation <br/>
--> Project available on GitHub: https://github.com/Acciaw/sisyphe.io <br/>
+#### **University Bachelor of Technology (BUT) in Computer Science**
+*IUT du Limousin, Limoges | 2024 – Present*
 
-### Work Experience Internship
-  - Asobo Studio - Bordeaux, France | June 2022 (2 weeks) <br/>
-Discovery of the various professions related to game creation (development, game design, graphics, QA testing, sound design) <br/>
-Understanding of the overall functioning of a tech company, from team organization to project management. <br/>
-Interaction with IT professionals and support teams <br/>
+* **Legrand Project:** Collaborative development of a management solution for operating modes (Team of 5).
+* **Network Simulation (Kathara):** Built a simulated IT architecture using **Bash scripts** and **Wireshark** for traffic analysis.
+* **Java Application (Latice):** Board game development with JavaFX, focusing on unit testing and code quality.
 
+#### **NSI 2024 Awards - [Sisyphe.io](https://github.com/Acciaw/sisyphe.io)**
+*Lead Developer | Jan 2024 – April 2024*
+- Developed a revisited Sokoban game in a team of 5.
+- Handled project management, technical documentation, and pixel art.
+- **Award-winning project** at the Trophées NSI.
 
+---
 
+### About Me
 
+- **Hobbies:** Game Development (Godot, Game Maker), Indie Games, Economy & Finance.
+- **Languages:** French (Native), English (B2+), Spanish (A2+).
+- **Soft Skills:** Problem-solving, Adaptability, Rigor, and Teamwork.
 
-<!---
-krousseau19/krousseau19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+### Let's Connect!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kylian-rousseau87/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kylian.rousseau@etu.unilim.fr)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://votre-lien-portfolio.com)
+
+---
+*“Organized, autonomous, and always eager to learn new technologies.”*
