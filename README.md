@@ -56,7 +56,7 @@ Currently in my second year of a Bachelor's Degree in Computer Science at **IUT 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kylian-rousseau87/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kylian.rousseau@etu.unilim.fr)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://votre-lien-portfolio.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://https://kylian-rousseau.netlify.app/)
 
 ---
 *“Organized, autonomous, and always eager to learn new technologies.”*
