@@ -2,7 +2,7 @@
 
 ### Full-stack .NET & Python Developer | BUT Informatique Student
 
-Currently in my second year of a Bachelor's Degree in Computer Science at **IUT du Limousin**, I am a passionate developer with a strong focus on **Full-stack development** and **Data Management**. I am currently looking for an **apprenticeship for the 2026-2027 academic year**.
+Currently in my second year of a Bachelor's Degree in Computer Science at **IUT du Limousin**, I am a passionate developer with a strong focus on **Full-stack development** and **Data Management**. I am currently looking for an **internship for the 2027 academic year**.
 
 ---
 
