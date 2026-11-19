@@ -19,7 +19,7 @@ Currently in my second year of a Bachelor's Degree in Computer Science at **IUT 
 
 ### Professional Experience
 
-#### **Full-stack .NET Developer (Internship)** **ISPED - Université de Bordeaux** | *April 2026 – Present*
+#### **Full-stack .NET Developer (Internship)** **ISPED - Université de Bordeaux** | *April 2026 – June 2026*
 - **Migration:** Transitioning internal management tools from WebForms to **ASP.NET MVC**.
 - **Backend:** Managing data lifecycle using **C#**, **Entity Framework**, and **SQL Server**.
 - **Features:** Implementing reporting tools (ClosedXML, Rotativa) and automated SMTP mailing services.
